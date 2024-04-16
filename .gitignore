@@ -5,3 +5,4 @@ data/CRISPR_gene_dependency.csv
 data/CCLE_wes_gene_cn.csv
 data/CCLE_mutations.csv
 data/CCLE_expression.csv
+**/.ipynb_checkpoints/
