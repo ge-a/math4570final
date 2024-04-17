@@ -6,3 +6,4 @@ data/CCLE_wes_gene_cn.csv
 data/CCLE_mutations.csv
 data/CCLE_expression.csv
 **/.ipynb_checkpoints/
+.DS_Store
